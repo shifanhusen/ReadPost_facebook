@@ -17,15 +17,15 @@ The app **does not collect, store, or transmit any personal user data**. It only
 
 This app may request the following Facebook permissions:
 
-- `pages_read_engagement`
+- `Page Public Content Access`
 - `pages_manage_posts`
 - `pages_manage_engagement`
 
 These are used solely to:
 - Read posts from a public Page
-- Like them on behalf of the authorized Page
-- Share them to the authorized Page
-- Optionally delete old posts shared by the tool
+- Like them on behalf of my user
+- Share them on my feed
+
 
 **No other data or user content is accessed.**
 
